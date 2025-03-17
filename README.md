@@ -30,8 +30,9 @@ To see the scanner integration in action, follow these steps:
 4. Initiate the scan and view/download the scanned document.
 
 ## Demo
-![Dashboard](docs/demo.jpeg)
 
+![scanned Document preview ](docs/scannedDocumentpreview.png)
+![scanner](docs/scanner.png)
 
 ## Contact
 **📧 Email: [burnaviour7890@gmail.com](mailto:burnaviour7890@gmail.com)**
