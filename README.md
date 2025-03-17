@@ -40,3 +40,4 @@ To see the scanner integration in action, follow these steps:
 
 **🔗 LinkedIn: [Muhammad Muzafar](https://www.linkedin.com/in/muhammad-muzafar-78147b213/)**
 
+📢 Availability: This module is available for purchase. For inquiries, please contact via email or LinkedIn.
