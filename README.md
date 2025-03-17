@@ -29,10 +29,8 @@ To see the scanner integration in action, follow these steps:
 3. Configure scanning preferences (flatbed, feeder, etc.).
 4. Initiate the scan and view/download the scanned document.
 
-
-![scanned Document preview ](docs/scannedDocumentpreview.png)
-
-![scanner](docs/scanner.png)
+## Demo
+![Dashboard](docs/demo.jpeg)
 
 
 ## Contact
